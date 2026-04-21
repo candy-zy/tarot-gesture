@@ -34,9 +34,15 @@
 
 ## 📸 Demo 截图
 
-| 首页法阵 | 旋转选牌 | 选牌 | AI 解读 | 设置与历史 |
-|---------|---------|------|---------|---------|
-| ![首页](docs/page1.png) | ![旋转](docs/page2.png) | ![选牌](docs/page3.png) | ![解读](docs/page4.png) | ![设置](docs/page5.png) |
+![首页法阵](docs/page1.png)
+
+![旋转选牌](docs/page2.png)
+
+![选牌页面](docs/page3.png)
+
+![AI解读](docs/page4.png)
+
+![设置与历史](docs/page5.png)
 
 > 截图展示手势识别实时追踪、法阵发光效果、AI 个性化解读与历史记录页面。
 
